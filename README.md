@@ -1,12 +1,14 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8ec02dfb-20cf-45d3-98f6-8e372301b4be" width="300px" alt="Banner" />
-</div>
 
 # 👋 Olá, eu sou o **Daniel**  
 
 Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvimento de aplicativos **GTK**.
 
 ---
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8ec02dfb-20cf-45d3-98f6-8e372301b4be" width="300px" alt="Banner" />
+</div>
+
 
 ## 🔭 O que estou fazendo agora
 - 🎯 **Freelancer** – desenvolvendo soluções sob demanda para clientes.
