@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/8ec02dfb-20cf-45d3-98f6-8e372301b4be" />
+" align="center" style="width: 100%" />
 </div>  
   
 
