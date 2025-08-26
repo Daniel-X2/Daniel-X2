@@ -5,9 +5,6 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 
 ---
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8ec02dfb-20cf-45d3-98f6-8e372301b4be" width="300px" height="300"alt="Banner" />
-</div>
 
 
 ## 🔭 O que estou fazendo agora
