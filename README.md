@@ -4,7 +4,7 @@
   
 
 
-### <div align="center">Ola, eu sou  Daniel, seja bem vindo a meu github</div>  
+### <div align="center"></div>  
   
 
 - 🔭 atualmente trabalhando como freelancer  
