@@ -53,7 +53,7 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
   <a href="https://linkedin.com/in/daniel-da-silva-32814636b" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:daniel@example.com">
+  <a href="mailto:danielsilva.dev1@gmail.com">
     <img src="https://img.shields.io/badge/email-DM?style=for-the-badge&logo=gmail&color=D14836" alt="E‑mail" />
   </a>
 </div>
