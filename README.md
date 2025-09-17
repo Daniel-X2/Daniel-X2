@@ -9,8 +9,8 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 
 ## 🔭 O que estou fazendo agora
 - 🎯 **Freelancer** – desenvolvendo soluções sob demanda para clientes.
-- 📚 **Aprendendo** a construir aplicativos desktop com **GTK** (Rust / Python).
-- ❤️ **Back‑end** – adoro arquitetar APIs escaláveis e services robustos.
+- 📚 **Aprendendo** a construir aplicativos desktop com **GTK** (C / Python).
+- ❤️ **Back‑end** – gosto de  arquitetar APIs escaláveis e services robustos.
 
 ---
 
@@ -22,35 +22,27 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 | <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" alt="JavaScript"> **JavaScript** | <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="30" alt="C"> **C** | <img src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" height="30" alt="Docker"> **Docker** |
 | | <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="30" alt="Node.js"> **Node.js** | <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="30" alt="Linux"> **Linux** |
 
-> **Obs.**: Para cada tecnologia usei os ícones do *Profilinator* – eles dão um toque visual legal e são totalmente gratuitos.  
+
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 1. **GTK‑Todo** – Aplicativo de lista de tarefas (GTK + Rust)  
+### 1. **COFRE-PESSOAL** – Aplicativo de lista de tarefas (GTK + C)  
 - ✔️ Interface nativa, leve e responsiva.  
-- 📦 Empacotado com **Flatpak** para distribuição fácil.  
-- 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/gtk-todo)
+- ✔️ Criptografia com o libsodium
+- ✔️ Banco de dados com sqlite
+- 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/cofre_pessoal)
 
-### 2. **API‑Finances** – API RESTful para controle financeiro  
-- 🛠️ Desenvolvida em **C#/.NET Core** com **Entity Framework**.  
-- 🗄️ Banco de dados PostgreSQL com migrações automáticas.  
-- 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/api-finances)
+### 2. **Victory-rhythm** - Aplicativo de musicas (Python)  
+- 🛠️ Desenvolvida em **Python** com **customtkinter**.  
+- 🗄️ Banco de dados  com  sqlalchemy. 
+- 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/victory-rhythm)
 
 *(Adicione aqui quaisquer outros projetos que queira destacar.)*
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-x2&hide_border=true&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-x2&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
 
 ## 🌐 Conecte‑se comigo
 
@@ -68,4 +60,3 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 
 ---
 
-### <div align="center">Gerado com <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
