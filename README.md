@@ -16,11 +16,11 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 
 ## 🌱 Tecnologias & Ferramentas
 
-| Frontend | Backend | Extras |
-|----------|---------|--------|
+| Frontend | Backend |
+|----------|---------|
 | <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="30" alt="Python"> **Python** | <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="30" alt="C#"> **C#** | <img src="https://profilinator.rishav.dev/skills-assets/git-original.svg" height="30" alt="Git"> **Git** |
-| <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" alt="JavaScript"> **JavaScript** | <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="30" alt="C"> **C** | <img src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" height="30" alt="Docker"> **Docker** |
-| | <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="30" alt="Node.js"> **Node.js** | <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="30" alt="Linux"> **Linux** |
+| <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" alt="JavaScript"> **JavaScript** | <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="30" alt="C"> **C** 
+
 
 
 
