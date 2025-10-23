@@ -33,14 +33,6 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 - ✔️ Criptografia com o libsodium
 - ✔️ Banco de dados com sqlite
 - 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/cofre_pessoal)
-
-### 2. **Victory-rhythm** - Aplicativo de musicas (Python)  
-- 🛠️ Desenvolvida em **Python** com **customtkinter**.  
-- 🗄️ Banco de dados  com  sqlalchemy. 
-- 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/victory-rhythm)
-
-*(Adicione aqui quaisquer outros projetos que queira destacar.)*
-
 ---
 
 
