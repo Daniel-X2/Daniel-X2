@@ -16,8 +16,7 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 
 ## 🌱 Tecnologias & Ferramentas
 
-| Backend |
-|----------|---------|
+
 | <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="30" alt="Python"> **Python** | <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="30" alt="C#"> **C#** | <img src="https://profilinator.rishav.dev/skills-assets/git-original.svg" height="30" alt="Git"> **Git** |
 | <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" alt="JavaScript"> **JavaScript** | <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="30" alt="C"> **C** 
 
@@ -34,6 +33,24 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 - ✔️ Banco de dados com sqlite
 - 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/cofre_pessoal)
 ---
+### 2. **API-PACIFICADOR** – API com FastAPI e SQLAlchemy
+
+- ✔️ Endpoints completos para **elenco**, **atores**, **personagens** e **estatísticas**
+- ✔️ Sistema de **votação** com atualização automática de upvotes
+- ✔️ **Ranking** dos personagens mais votados (com `top` personalizável)
+- ✔️ **Busca avançada** com filtros:
+  - status (vivo/morto)
+  - habilidade
+  - personagem mais votado
+- ✔️ Lógica de negócio separada em **Service**
+- ✔️ Organização limpa com **Repository**, **DTO**, **Models** e erros personalizados
+- ✔️ Retornos padronizados e validações de entrada
+- ✔️ Banco de dados **SQLite** integrado com SQLAlchemy
+- ✔️ Documentação automática com **Swagger** e **ReDoc**
+- ✔️ Testes automatizados com Pytest para filtros, ranking, busca e estatísticas
+
+🔗 **Repositório no GitHub:**  
+https://github.com/Daniel-X2/api-pacificador
 
 
 ## 🌐 Conecte‑se comigo
