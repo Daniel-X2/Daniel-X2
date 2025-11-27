@@ -46,7 +46,7 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 - ✔️ Organização limpa com **Repository**, **DTO**, **Models** e erros personalizados
 - ✔️ Retornos padronizados e validações de entrada
 - ✔️ Banco de dados **SQLite** integrado com SQLAlchemy
-- ✔️ Documentação automática com **Swagger** e **ReDoc**
+- ✔️ Documentação automática
 - ✔️ Testes automatizados com Pytest para filtros, ranking, busca e estatísticas
 
 🔗 **Repositório no GitHub:**  
