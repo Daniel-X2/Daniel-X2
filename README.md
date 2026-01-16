@@ -37,13 +37,15 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 - ✔️ Banco de dados com **PostgreSQL**  
 - ✔️ **Arquitetura em camadas** (Controller, Service, Repository)  
 - ✔️ **Operações assíncronas** com acesso eficiente a dados  
-- 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/API-Gestao-Assincrona)
+- 🔗 **Repositório no GitHub**
+- https://github.com/Daniel-X2/API-Gestao-Assincrona
 ---
 ### 2. **Cofre-Criptografado-Gtk** – Aplicativo de lista de tarefas (GTK + C)  
 - ✔️ Interface nativa, leve e responsiva.  
 - ✔️ Criptografia com o libsodium
 - ✔️ Banco de dados com sqlite
-- 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/Cofre-Criptografado-Gtk)
+- 🔗 **Repositório no GitHub**
+- https://github.com/Daniel-X2/Cofre-Criptografado-Gtk
 ---
 ### 3. **PeacemakerAPI** – API com FastAPI e SQLAlchemy
 - ✔️ API em produção: https://api-pacificador.onrender.com/docs
