@@ -24,21 +24,26 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 
 
 ---
-
 ## 🚀 Projetos em Destaque
 
-### 1. **COFRE-PESSOAL** – Aplicativo de lista de tarefas (GTK + C)  
+### 1. **API-Gestao-Assincrona** – API ASP.NET  
+- ✔️ Banco de dados com **PostgreSQL**  
+- ✔️ **Arquitetura em camadas** (Controller, Service, Repository)  
+- ✔️ **Operações assíncronas** com acesso eficiente a dados  
+- 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/API-Gestao-Assincrona)
+---
+### 2. **Cofre-Criptografado-Gtk** – Aplicativo de lista de tarefas (GTK + C)  
 - ✔️ Interface nativa, leve e responsiva.  
 - ✔️ Criptografia com o libsodium
 - ✔️ Banco de dados com sqlite
-- 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/cofre_pessoal)
+- 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/Cofre-Criptografado-Gtk)
 ---
-### 2. **API-PACIFICADOR** – API com FastAPI e SQLAlchemy
-
-- ✔️ Endpoints completos para **elenco**, **atores**, **personagens** e **estatísticas**
-- ✔️ Sistema de **votação** com atualização automática de upvotes
+### 3. **PeacemakerAPI** – API com FastAPI e SQLAlchemy
+- ✔️ API em produção: https://api-pacificador.onrender.com/docs
+- ✔️ Endpoints  para **elenco**, **atores**, **personagens** e **estatísticas**
+- ✔️ Sistema de **votação** 
 - ✔️ **Ranking** dos personagens mais votados (com `top` personalizável)
-- ✔️ **Busca avançada** com filtros:
+- ✔️ **Busca** com filtros:
   - status (vivo/morto)
   - habilidade
   - personagem mais votado
@@ -46,11 +51,10 @@ Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvim
 - ✔️ Organização limpa com **Repository**, **DTO**, **Models** e erros personalizados
 - ✔️ Retornos padronizados e validações de entrada
 - ✔️ Banco de dados **SQLite** integrado com SQLAlchemy
-- ✔️ Documentação automática
 - ✔️ Testes automatizados com Pytest para filtros, ranking, busca e estatísticas
 
 🔗 **Repositório no GitHub:**  
-https://github.com/Daniel-X2/api-pacificador
+https://github.com/Daniel-X2/PeacemakerAPI
 
 
 ## 🌐 Conecte‑se comigo
