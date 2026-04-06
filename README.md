@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o **Daniel**
 
-Freelancer apaixonado por **back‑end** e atualmente mergulhando no desenvolvimento de aplicativos **GTK**.
+Desenvolvedor Backend focado em APIs escaláveis, segurança (JWT/RBAC) e performance, com experiência prática em testes de carga e sistemas em produção.
 
 ---
 
 ## 🔭 O que estou fazendo agora
 
 - 🎯 **Freelancer** – desenvolvendo soluções sob demanda para clientes.
-- 📚 **Aprendendo** a construir aplicativos desktop com **GTK** (C / Python).
+- 📚 **Aprendendo** a construir aplicativos desktop com **GTK** .
 - ❤️ **Back‑end** – gosto de arquitetar APIs escaláveis e services robustos.
 
 ---
