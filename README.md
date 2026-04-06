@@ -29,6 +29,7 @@ API REST assíncrona para gestão de **clientes**, **funcionários** e **produto
 **Tecnologias:** `ASP.NET Core` `PostgreSQL` `ADO.NET` `Npgsql` `xUnit` `Moq` `Bogus` `Docker`
 
 **Destaques:**
+- ✔️ +8.000 requisições testadas (~23 req/s, ~3ms)
 - ✔️ Arquitetura modular: Controller → Service → Repository.
 - ✔️ Validação de CPF com algoritmo próprio.
 - ✔️ Atualização parcial — campos inválidos mantêm valor anterior.
