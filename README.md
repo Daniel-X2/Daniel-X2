@@ -37,7 +37,7 @@ API REST assíncrona para gestão de **clientes**, **funcionários** e **produto
 - ✔️ Deploy via Docker com PostgreSQL.
 
 **Endpoints:** `/client/` · `/funcionario/` · `/product/` · `/estoque/`
-🌐 [API em produção](https://api-gestao-assincrona-api-s-production.up.railway.app/)
+🌐 [API em produção](https://api-gestao-assincrona.up.railway.app/)
 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/API-Gestao-Assincrona)
 
 ---
