@@ -77,6 +77,13 @@ API inspirada na série **Pacificador (Peacemaker)**, com sistema de votação, 
 🌐 [API em produção](https://api-pacificador.onrender.com/docs) · 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/PeacemakerAPI)
 
 ---
+## 💼 Buscando oportunidade
+
+Atualmente em busca da minha primeira oportunidade como desenvolvedor backend.
+
+Aberto a vagas júnior ou estágio.
+
+Entre em contato 👇
 
 ## 🌐 Conecte-se comigo
 
