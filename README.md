@@ -1,20 +1,13 @@
-# 👋 Olá, eu sou o **Daniel**
+# 👋 Olá, eu sou o Daniel
 
-Desenvolvedor Backend focado em APIs escaláveis, segurança (JWT/RBAC) e performance, com experiência prática em testes de carga e sistemas em produção.
-
----
-
-## 🔭 O que estou fazendo agora
-
-- 🎯 Desenvolvendo projetos próprios com foco em backend e APIs
-- 📚 **Aprendendo** a construir aplicativos desktop com **GTK** .
-- ❤️ **Back‑end** – gosto de arquitetar APIs escaláveis e services robustos.
+Desenvolvedor Backend focado em APIs escaláveis, segurança e performance — com experiência prática em testes de carga, deploy em produção e arquitetura em camadas.
 
 ---
 
 ## 🌱 Tecnologias & Ferramentas
 
-`Python` `C#` `C` `JavaScript` `Git` `Linux` `GTK` `FastAPI` `ASP.NET Core` `PostgreSQL` `SQLite` `Docker` `libsodium` `ADO.NET` `SQLAlchemy`
+`C#` `Python` `C` `ASP.NET Core` `FastAPI` `PostgreSQL` `SQLite` `ADO.NET` `SQLAlchemy`  
+`JWT` `BCrypt` `xUnit` `Moq` `Bogus` `Pytest` `Locust` `Serilog` `Docker` `GitHub Actions` `libsodium` `Git` `Linux`
 
 ---
 
@@ -26,34 +19,37 @@ Desenvolvedor Backend focado em APIs escaláveis, segurança (JWT/RBAC) e perfor
 
 API REST assíncrona para gestão de **clientes**, **funcionários** e **produtos**, com PostgreSQL e arquitetura em camadas.
 
-**Tecnologias:** `ASP.NET Core` `PostgreSQL` `ADO.NET` `Npgsql` `xUnit` `Moq` `Bogus` `Docker`
+**Tecnologias:** `ASP.NET Core` `PostgreSQL` `ADO.NET` `Npgsql` `JWT` `BCrypt` `Serilog` `xUnit` `Moq` `Bogus` `Docker` `GitHub Actions`
 
 **Destaques:**
-- ✔️ +8.000 requisições testadas (~23 req/s, ~3ms)
+- ✔️ **+8.000 requisições testadas** com Locust: ~23 req/s, mediana de ~3ms por resposta.
+- ✔️ **Autenticação JWT + RBAC** com controle de acesso por perfil de usuário.
+- ✔️ **BCrypt** para hash seguro de senhas.
+- ✔️ **Rate limiting** para proteção contra abuso de endpoints.
+- ✔️ **Logging estruturado** com Serilog.
 - ✔️ Arquitetura modular: Controller → Service → Repository.
+- ✔️ Middleware centralizado de tratamento de exceções (12 tipos mapeados).
+- ✔️ Testes unitários com mocks — sem dependência de banco de dados real.
+- ✔️ CI/CD com **GitHub Actions** e deploy via **Railway**.
 - ✔️ Validação de CPF com algoritmo próprio.
 - ✔️ Atualização parcial — campos inválidos mantêm valor anterior.
-- ✔️ Middleware centralizado de tratamento de exceções (12 tipos).
-- ✔️ Testes unitários com mocks (sem banco de dados real).
-- ✔️ Deploy via Docker com PostgreSQL.
 
-**Endpoints:** `/client/` · `/funcionario/` · `/product/` · `/estoque/`
-🌐 [API em produção](https://api-gestao-assincrona.up.railway.app/)
-🔗 [Repositório no GitHub](https://github.com/Daniel-X2/API-Gestao-Assincrona)
+**Endpoints:** `/client/` · `/funcionario/` · `/product/` · `/estoque/`  
+🌐 [API em produção](https://api-gestao-assincrona.up.railway.app/)  
+🔗 [Repositório no GitHub](https://github.com/Daniel-X2/Sistema-de-Gestao-com-DOTNET)
 
 ---
 
 ### 2. 🔐 Cofre-Criptografado-Gtk — Gerenciador de Notas Seguro (C + GTK)
 
-Aplicativo de desktop para gerenciamento de notas com **criptografia forte** e interface gráfica nativa.
+Aplicativo desktop para gerenciamento de notas com **criptografia forte** e interface gráfica nativa.
 
 **Tecnologias:** `C` `GTK+ 3` `SQLite` `libsodium` `CMake`
 
 **Destaques:**
-- ✔️ Criptografia forte com **libsodium**.
+- ✔️ Criptografia forte com **libsodium** (Argon2 + XChaCha20-Poly1305).
 - ✔️ Interface gráfica nativa e leve com **GTK+ 3**.
 - ✔️ Armazenamento local seguro com **SQLite**.
-- ✔️ Performance otimizada por ser desenvolvido em C.
 - ✔️ Correção de **memory leaks** validada com **Valgrind**.
 - ✔️ Build gerenciado com **CMake**.
 
@@ -63,25 +59,25 @@ Aplicativo de desktop para gerenciamento de notas com **criptografia forte** e i
 
 ### 3. 🎬 PeacemakerAPI — API REST com FastAPI & SQLAlchemy
 
-API inspirada na série **Pacificador (Peacemaker)**, com sistema de votação, ranking e busca avançada. **Atualizada para PostgreSQL**.
+API com sistema de votação, ranking e busca avançada, rodando em **PostgreSQL**.
 
 **Tecnologias:** `FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `Pytest` `Locust`
 
 **Destaques:**
-- ✔️ Migração de SQLite para **PostgreSQL** para maior robustez e escalabilidade.
+- ✔️ **+5.000 requisições testadas** com Locust, 0 falhas — 14 req/s, 265ms de média.
 - ✔️ Sistema de **votação** e **ranking** dinâmico com filtros avançados.
-- ✔️ Arquitetura em camadas (Controller/Service/Repository) e uso de DTOs.
-- ✔️ **Testes de Carga (Locust):** Suportou mais de 5.000 requisições com 0 falhas.
-- ✔️ **Performance:** Média de 14 req/s com tempo de resposta de 265ms.
+- ✔️ Arquitetura em camadas (Controller/Service/Repository) com uso de DTOs.
+- ✔️ Migração de SQLite para **PostgreSQL**.
 - ✔️ Testes automatizados com **Pytest** cobrindo a lógica de negócio.
 
-🌐 [API em produção](https://api-pacificador.onrender.com/docs) · 🔗 [Repositório no GitHub](https://github.com/Daniel-X2/PeacemakerAPI)
+🌐 [API em produção](https://api-pacificador.onrender.com/docs)  
+🔗 [Repositório no GitHub](https://github.com/Daniel-X2/PeacemakerAPI)
 
 ---
+
 ## 💼 Buscando oportunidade
 
-Atualmente em busca da minha primeira oportunidade como desenvolvedor backend.
-
+Atualmente em busca da minha primeira oportunidade como desenvolvedor backend.  
 Aberto a vagas júnior ou estágio.
 
 Entre em contato 👇
