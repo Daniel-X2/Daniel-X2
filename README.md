@@ -6,7 +6,7 @@ Desenvolvedor Backend focado em APIs escaláveis, segurança (JWT/RBAC) e perfor
 
 ## 🔭 O que estou fazendo agora
 
-- 🎯 **Freelancer** – desenvolvendo soluções sob demanda para clientes.
+- 🎯 Desenvolvendo projetos próprios com foco em backend e APIs
 - 📚 **Aprendendo** a construir aplicativos desktop com **GTK** .
 - ❤️ **Back‑end** – gosto de arquitetar APIs escaláveis e services robustos.
 
