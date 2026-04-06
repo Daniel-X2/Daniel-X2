@@ -22,7 +22,7 @@ Desenvolvedor Backend focado em APIs escaláveis, segurança (JWT/RBAC) e perfor
 
 ---
 
-### 1. 🗄️ API-Gestao-Assincrona — API REST com ASP.NET Core
+### 1. 🗄️ Sistema-de-Gestao-com-DOTNET — API REST com ASP.NET Core
 
 API REST assíncrona para gestão de **clientes**, **funcionários** e **produtos**, com PostgreSQL e arquitetura em camadas.
 
