@@ -1,137 +1,148 @@
+<!-- HEADER COM ANIMAÇÃO -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;APIs+Seguras+e+Performáticas;Clean+Architecture+%7C+CI%2FCD+%7C+Docker" />
+</p>
+
 <h1 align="center">👨‍💻 Daniel da Silva Pereira</h1>
 
 <p align="center">
   <b>Backend Developer</b><br>
-  📍 João Pessoa, Brasil
+  📍 Brasil
 </p>
 
 <p align="center">
-  Construo APIs robustas com foco em <b>segurança</b>, <b>performance</b> e <b>arquitetura limpa</b>.
+  <i>
+    Foco em construção de APIs robustas com alta performance, segurança e arquitetura escalável.
+  </i>
 </p>
+
+---
+
+## 🧠 Sobre mim
+
+* Construo APIs com foco em **resiliência e escalabilidade**
+* Experiência prática com **deploy em produção**
+* Forte base em **segurança e testes**
+* Mentalidade orientada a **engenharia e não só código**
+
+---
+
+## ⚙️ Stack (Core)
 
 <p align="center">
-  <code>.NET</code> • <code>Python</code> • <code>C</code>
+
+<img src="https://skillicons.dev/icons?i=cs,python,c,dotnet,fastapi,postgres,sqlite,docker,linux,git" />
+
 </p>
 
 ---
 
-<h2>🚀 Stack Tecnológica</h2>
-
-<p>
-<b>Linguagens:</b><br>
-<code>C#</code> <code>Python</code> <code>C</code>
-</p>
-
-<p>
-<b>Frameworks:</b><br>
-<code>ASP.NET Core</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>ADO.NET</code>
-</p>
-
-<p>
-<b>Banco de Dados:</b><br>
-<code>PostgreSQL</code> <code>SQLite</code>
-</p>
-
-<p>
-<b>Segurança:</b><br>
-<code>JWT</code> <code>RBAC</code> <code>BCrypt</code> <code>libsodium</code>
-</p>
-
-<p>
-<b>DevOps:</b><br>
-<code>Docker</code> <code>GitHub Actions</code> <code>Railway</code> <code>Render</code>
-</p>
-
-<p>
-<b>Testes:</b><br>
-<code>xUnit</code> <code>Moq</code> <code>Bogus</code> <code>Pytest</code> <code>Locust</code>
-</p>
-
----
-
-<h2>📂 Projetos</h2>
-
-<h3>🗄️ Sistema de Gestão (.NET)</h3>
-
-<p>
-<a href="https://github.com/Daniel-X2/Sistema-de-Gestao-com-DOTNET">🔗 Repositório</a> |
-<a href="https://api-gestao-assincrona.up.railway.app/">🌐 API</a>
-</p>
-
-<p>
-API REST assíncrona com arquitetura em camadas e PostgreSQL.
-</p>
-
-<table>
-<tr><th>Métrica</th><th>Valor</th></tr>
-<tr><td>Requisições</td><td><b>8.300</b></td></tr>
-<tr><td>Throughput</td><td><b>~23 req/s</b></td></tr>
-<tr><td>Latência</td><td><b>3ms</b></td></tr>
-<tr><td>Exceções</td><td><b>12 tipos</b></td></tr>
-</table>
-
-<ul>
-<li>JWT + RBAC</li>
-<li>BCrypt</li>
-<li>Rate limiting</li>
-<li>Serilog</li>
-<li>Arquitetura em camadas</li>
-<li>CI/CD + Docker</li>
-</ul>
-
----
-
-<h3>🎬 Peacemaker API</h3>
-
-<p>
-<a href="https://github.com/Daniel-X2/PeacemakerAPI">🔗 Repositório</a> |
-<a href="https://api-pacificador.onrender.com/docs">🌐 Docs</a>
-</p>
-
-<table>
-<tr><th>Métrica</th><th>Valor</th></tr>
-<tr><td>Requisições</td><td><b>5.000+</b></td></tr>
-<tr><td>Falhas</td><td><b>0</b></td></tr>
-<tr><td>Throughput</td><td><b>14 req/s</b></td></tr>
-<tr><td>Latência</td><td><b>265ms</b></td></tr>
-</table>
-
-<ul>
-<li>Ranking dinâmico</li>
-<li>Rate limiting</li>
-<li>Filtros avançados</li>
-<li>Testes com Pytest</li>
-<li>Deploy em produção</li>
-</ul>
-
----
-
-<h3>🔐 Cofre Criptografado (C)</h3>
-
-<p>
-<a href="https://github.com/Daniel-X2/Cofre-Criptografado-Gtk">🔗 Repositório</a>
-</p>
-
-<ul>
-<li>Argon2 + XChaCha20-Poly1305</li>
-<li>GTK nativo</li>
-<li>SQLite</li>
-<li>Valgrind (sem leaks)</li>
-<li>CMake</li>
-</ul>
-
----
-
-<h2>📊 Stats</h2>
+## 🧩 Arquitetura & Práticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Daniel-X2&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-X2&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI/CD-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20Design-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Load%20Testing-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security%20First-000?style=for-the-badge"/>
 </p>
 
 ---
 
-<h2>📬 Contato</h2>
+## 🚀 Projetos em Destaque
+
+---
+
+### 🗄️ Sistema de Gestão (.NET)
+
+<p>
+<a href="https://github.com/Daniel-X2/Sistema-de-Gestao-com-DOTNET">Repositório</a> • 
+<a href="https://api-gestao-assincrona.up.railway.app/">API</a>
+</p>
+
+**API REST assíncrona com foco em performance e segurança.**
+
+#### ⚡ Performance
+
+* **8.300 requisições** (50 usuários)
+* **~23 req/s**
+* **3ms de latência**
+* **0 falhas críticas**
+
+#### 🧠 Engenharia aplicada
+
+* JWT + RBAC
+* Rate limiting
+* Middleware global de exceções
+* Logging estruturado (Serilog)
+* Paginação e atualização parcial
+* Testes isolados (sem banco real)
+* CI/CD + Docker
+
+---
+
+### 🎬 Peacemaker API
+
+<p>
+<a href="https://github.com/Daniel-X2/PeacemakerAPI">Repositório</a> • 
+<a href="https://api-pacificador.onrender.com/docs">Docs</a>
+</p>
+
+**API com ranking dinâmico e sistema de votação.**
+
+#### ⚡ Performance
+
+* **5.000+ requisições**
+* **0 falhas**
+* **14 req/s**
+
+#### 🧠 Engenharia aplicada
+
+* Arquitetura em camadas
+* Validação com Pydantic
+* Rate limiting
+* Testes automatizados
+* Deploy em produção
+
+---
+
+### 🔐 Cofre Criptografado
+
+<p>
+<a href="https://github.com/Daniel-X2/Cofre-Criptografado-Gtk">Repositório</a>
+</p>
+
+**Aplicação desktop com criptografia forte em C.**
+
+#### 🧠 Engenharia aplicada
+
+* Argon2 (derivação de chave)
+* XChaCha20-Poly1305
+* GTK nativo
+* Controle de memória com Valgrind
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Daniel-X2&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-X2&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+<p align="center">
+  🚀 Buscando primeira oportunidade como <b>Backend Developer</b><br>
+  (Júnior ou Estágio)
+</p>
+
+---
+
+## 📬 Contato
 
 <p align="center">
   <a href="https://linkedin.com/in/daniel-da-silva-32814636b">
@@ -142,7 +153,9 @@ API REST assíncrona com arquitetura em camadas e PostgreSQL.
   </a>
 </p>
 
+---
+
 <p align="center">
-  🚀 Buscando primeira oportunidade como Backend Developer
+  <i>"Código bom resolve problemas. Engenharia boa evita que eles existam."</i>
 </p>
 
