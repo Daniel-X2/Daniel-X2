@@ -58,7 +58,7 @@
 
 <p>
 <a href="https://github.com/Daniel-X2/Sistema-de-Gestao-com-DOTNET">Repositório</a> • 
-<a href="https://api-gestao-assincrona.up.railway.app/">API</a>
+
 </p>
 
 **API REST assíncrona com foco em performance e segurança.**
