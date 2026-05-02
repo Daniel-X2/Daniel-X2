@@ -32,7 +32,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,python,c,dotnet,fastapi,postgres,sqlite,docker,linux,git" />
+<img src="https://skillicons.dev/icons?i=cs,c,dotnet,fastapi,postgres,sqlite,docker,linux,git" />
 
 </p>
 
@@ -79,31 +79,6 @@
 * Paginação e atualização parcial
 * Testes isolados (sem banco real)
 * CI/CD + Docker
-
----
-
-### 🎬 Peacemaker API
-
-<p>
-<a href="https://github.com/Daniel-X2/PeacemakerAPI">Repositório</a> • 
-<a href="https://api-pacificador.onrender.com/docs">Docs</a>
-</p>
-
-**API com ranking dinâmico e sistema de votação.**
-
-#### ⚡ Performance
-
-* **5.000+ requisições**
-* **0 falhas**
-* **14 req/s**
-
-#### 🧠 Engenharia aplicada
-
-* Arquitetura em camadas
-* Validação com Pydantic
-* Rate limiting
-* Testes automatizados
-* Deploy em produção
 
 ---
 
