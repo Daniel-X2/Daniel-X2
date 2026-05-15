@@ -120,7 +120,7 @@
 ## 📬 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/daniel-da-silva-32814636b">
+  <a href="https://www.linkedin.com/in/daniel-silva-dev1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:danielsilva.dev1@gmail.com">
